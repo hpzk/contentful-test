@@ -2,12 +2,14 @@ import * as React from "react"
 
 export default function GatsbyContentfulLogo() {
   return 
+  <img 
+    width="82" height="24"
+    src="../docs/images/"></img>
+
   // (
-  <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 996.32 346"><defs><style>.cls-1{letter - spacing:-.13em;}.cls-2{fill:#9e1f63;font-family:SnellRoundhand-Black, 'Snell Roundhand';font-size:250px;}</style></defs><text class="cls-2" transform="translate(0 217)"><tspan class="cls-1" x="0" y="0">T</tspan><tspan x="190" y="0">esseller</tspan></text></svg>
     // <svg
     //   width="82"
     //   height="24"
-    //   src="../docs/images/"
     //   // viewBox="0 0 82 24"
     //   // fill="none"
     //   // xmlns="http://www.w3.org/2000/svg"
