@@ -4,7 +4,7 @@ export default function GatsbyContentfulLogo() {
   return 
   <img 
     width="82" height="24"
-    src="../docs/images/"></img>
+    src="../docs/images/Tesseller.svg"></img>
 
   // (
     // <svg
